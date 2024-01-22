@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522340711035",
+    "project_id": "drawer-dd234",
+    "storage_bucket": "drawer-dd234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522340711035:android:ed0e091cb5fa5dda2b40de",
+        "android_client_info": {
+          "package_name": "com.example.drawer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtp3KefTisowN36sr4N6wOvEwIxWixfdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
